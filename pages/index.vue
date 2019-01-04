@@ -15,7 +15,7 @@
         <a
           target="_blank"
           @click="reset()"
-          class="button--green">Reset</a>
+          class="button--green">リセット</a>
       </div>
     </div>
   </section>
@@ -30,7 +30,8 @@ export default {
     Logo
   },
   data() {
-    const words = ["print", "for", "if", "dict", "list", "class", "def", "except", "try", "error"]
+    const words = ["print", "for", "if", "dict", "list", "class", "def", "except", "try", "error",
+                   "int", "bool", "float", "str"]
     const questionNum = 10
     return {
       allWords: words,
