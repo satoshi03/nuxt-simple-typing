@@ -92,6 +92,7 @@ export default {
       this.time = 0
       this.status = "ready"
       this.answeredNum = 0
+      this.wordCount = 0
     }
   }
 }
