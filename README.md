@@ -2,6 +2,8 @@
 
 > Browser based simple typing game in JavaScript with Nuxtjs.
 
+![demo](https://media.giphy.com/media/12gc9gsX5HHExIaBjt/giphy.gif)
+
 ## Build Setup
 
 ``` bash
